@@ -33,7 +33,7 @@ Minha meta é **atualizar este repositório com commits todos os dias**, mostran
 
 📌 *Este repositório é meu espaço de prática e aprendizado. Toda contribuição e sugestão é bem-vinda!* 😊
 
-(Algumas pastas tem o código igual ao do idealizador do curso, por conta de um erro de exclusão de diversas pastas do meu PC
-para que eu não precise assistir tudo novamente para te-los novamente, eu peguei o código já pronto =) )
+(Algumas pastas tem o código igual ao do idealizador do curso por conta de um erro de exclusão de diversas pastas do meu PC,
+para que eu não precise assistir tudo novamente para tê-los novamente, eu peguei o código já pronto =) )
 
 ✏ **Autor: Caio Lucas**
